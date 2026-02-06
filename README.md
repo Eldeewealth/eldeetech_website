@@ -46,6 +46,7 @@ This website serves as our corporate presence and client gateway, showcasing our
 - **Services**: Category-based service catalog with direct contact inquiry links
 - **Training**: Programs, learning features, and mentorship details
 - **Contact**: Contact cards + form for direct inquiries
+- **Admin Panel**: Views the customers forms enquiries sent and when handled, marks as resolved + Analytics Dashboard (Hidden from normal page)
 
 ### Contact & Email Flow
 - Contact form with validation and honeypot spam prevention
