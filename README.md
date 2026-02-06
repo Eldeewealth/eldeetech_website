@@ -69,7 +69,7 @@ This website serves as our corporate presence and client gateway, showcasing our
 
 ### Autoresponse Email (Ticket Confirmation)
 
-![Eldeetech autoresponse email with ticket ID](Auto%20mail%20edeetech%20response.png)
+![Eldeetech autoresponse email with ticket ID](mail-autoresponse-edeetech.png)
 
 ---
 
