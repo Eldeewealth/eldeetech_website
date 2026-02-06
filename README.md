@@ -75,13 +75,13 @@ This website serves as our corporate presence and client gateway, showcasing our
 
 ## Screenshots
 
-### Homepage
+### Services
 
-![Eldeetech homepage](Eldeetech%20Homepage.jpg)
+![Eldeetech Services](eldeetech-ng-services.png)
 
-### Autoresponse Email (Ticket Confirmation)
+### Contact Us (Ticket Confirmation)
 
-![Eldeetech autoresponse email with ticket ID](Auto%20mail%20edeetech%20response.png)
+![Eldeetech autoresponse email with ticket ID](eldeetech-ng-contact.png)
 
 ---
 
